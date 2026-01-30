@@ -1,1 +1,1 @@
-# SP1---Band-Sim
+# SP1-Band-Sim
