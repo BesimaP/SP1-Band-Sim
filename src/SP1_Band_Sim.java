@@ -1,7 +1,5 @@
-import java.sql.SQLOutput;
-
 void main() {
-    //Iteration 1: Variables
+    //Iteration 1: Variables - FIRST BAND
 
     String bandName = "The Static Wawes";
     int fans = 8500;
@@ -26,7 +24,7 @@ void main() {
 
      System.out.println(          );
 
-    //Mit band
+    //SECOND BAND/MY BAND
     String name = "Chaos Harmony";
     int fansAmount = 7500;
     int maximalFans = 13000;
@@ -43,14 +41,14 @@ void main() {
     System.out.println("Maximal fans: " + maximalFans);
     System.out.println("Fame level: " + famousLevel);
     System.out.println("Experience Points: " + expertisePoints);
-    System.out.println("Money "+ cash);
+    System.out.println("Money: "+ cash);
     System.out.println("Active: "+isEnabled);
     System.out.println("Genre: "+ musicStyle);
     System.out.println("Songs: " + musicSongs[0] +", "+ musicSongs[1] +" and "+ musicSongs[2]);
 
     System.out.println(          );
 
-    //Rival-band
+    //THIRD BAND / RIVAL-BAND
     String band = "The Rivals";
     int audience = 6500;
     int maxAudience = 12000;
@@ -71,4 +69,6 @@ void main() {
     System.out.println("Active: " + isOperational);
     System.out.println("Genre:. " + style);
     System.out.println("Songs: " + musicHits[0] + ", " + musicHits[1] + " and " + musicHits[2]);
+
+    //
 }
