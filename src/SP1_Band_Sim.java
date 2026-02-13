@@ -7,7 +7,7 @@ import java.util.Random;
         int experiencePoints = 3200;
         double money = 4750.50;
         boolean isActive = true;
-        char genre = 'R';
+         char genre = 'R';
         String[] songs = {"Midnight moon", "Imagine", "White Christmas", "Broken Heart", "Nightmare"};
 
         public static void main(String[] args) {
